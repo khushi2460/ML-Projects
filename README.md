@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi2460/Khushi/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/khushi2460/Khushi/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/khushi2460/Khushi/tree/master/0074-search-a-2d-matrix) |
 | [0283-move-zeroes](https://github.com/khushi2460/Khushi/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/khushi2460/Khushi/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/khushi2460/Khushi/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
