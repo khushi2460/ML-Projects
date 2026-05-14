@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushi2460/Khushi/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/khushi2460/Khushi/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khushi2460/Khushi/tree/master/0344-reverse-string) |
 ## Array
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushi2460/Khushi/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khushi2460/Khushi/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
