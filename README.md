@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khushi2460/Khushi/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/khushi2460/Khushi/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/khushi2460/Khushi/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/khushi2460/Khushi/tree/master/0344-reverse-string) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi2460/Khushi/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/khushi2460/Khushi/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushi2460/Khushi/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khushi2460/Khushi/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/khushi2460/Khushi/tree/master/0035-search-insert-position) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/khushi2460/Khushi/tree/master/0059-spiral-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/khushi2460/Khushi/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
