@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khushi2460/Khushi/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/khushi2460/Khushi/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/khushi2460/Khushi/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/khushi2460/Khushi/tree/master/0503-next-greater-element-ii) |
 | [0912-sort-an-array](https://github.com/khushi2460/Khushi/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -107,8 +108,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushi2460/Khushi/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/khushi2460/Khushi/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/khushi2460/Khushi/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/khushi2460/Khushi/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/khushi2460/Khushi/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
